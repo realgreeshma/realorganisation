@@ -1,5 +1,9 @@
 package domain;
 
+import org.springframework.context.annotation.Bean;
+import org.springframework.stereotype.Component;
+
+@Component
 public class Organisation {
     private long id;
     private String nameoforganisation;
