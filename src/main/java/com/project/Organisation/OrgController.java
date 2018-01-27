@@ -1,4 +1,4 @@
-package Controller;
+package com.project.Organisation;
 
 import domain.Organisation;
 import org.springframework.web.bind.annotation.GetMapping;
